@@ -1,0 +1,20 @@
+Red Handle Machete - License
+Copyright (c) 2026 Capn_Crusty
+
+You may:
+- Run this mod on any DayZ server, public or private, by loading it from the
+  Steam Workshop.
+- Read and learn from the source code, and modify it for use on your own
+  servers.
+- Submit improvements back to this repository.
+
+You may not, without written permission:
+- Re-upload or repack this mod, whole or in part, to the Steam Workshop or
+  anywhere else, including inside server mod packs.
+- Publish modified versions, or present this work as your own.
+
+Requires DayZ. DayZ is a trademark of Bohemia Interactive; this mod is not
+affiliated with or endorsed by Bohemia Interactive. The machete's textures and
+materials are made from DayZ's own game files and are not included in this
+repository; tools/Tape.cs recreates them from your own copy of the game.
+Provided "as is", without warranty of any kind.

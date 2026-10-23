@@ -1,0 +1,12 @@
+name = "Red Handle Machete";
+picture = "";
+actionName = "Capn_Crusty.com";
+action = "https://capncrusty.com";
+description = "Adds a machete with a stylish red handle";
+logo = "";
+logoOver = "";
+tooltip = "Red Handle Machete";
+tooltipOwned = "Red Handle Machete";
+overview = "Adds a machete with a red handle recolor. Created by Capn_Crusty";
+author = "Capn_Crusty";
+overviewPicture = "";
